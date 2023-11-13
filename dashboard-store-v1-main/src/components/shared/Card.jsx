@@ -12,6 +12,7 @@ const Card = (props) => {
       <p className="text-xl">{description}</p>
       <span className="text-gray-400">${price}</span>
       <p className="text-gray-600">{inventory} Unidades disponibles</p>
+      <button className="bg-[#ec7c6a] w-full py-2 px-4 rounded-lg">{boton} Agregar al carrito</button>
     </div>
   );
 };
