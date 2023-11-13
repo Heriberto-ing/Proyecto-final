@@ -41,13 +41,13 @@
 
 .titulo-producto-carrito{
     font-size: 20px;
-
+    padding-left: 10px;
 }
 
 .precio-producto-carrito{
     font-weight: 700;
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 15px;
 
 }
 
